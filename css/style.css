@@ -1,0 +1,15 @@
+body {
+	background: #f1f1f1;
+}
+
+.content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.kybik-1 {
+	height: 100px;
+	width: 100px;
+	background: red;
+}
